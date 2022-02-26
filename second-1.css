@@ -1,0 +1,39 @@
+html, body {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#titleHeader
+{
+
+   
+}
+
+
+#section1
+{
+    height: 50px;
+  width: 50%;
+    background: linear-gradient(to bottom, #6699ff 0%, #ff99cc 100%);
+    text-align: center;
+    padding: 60px 0 50px;
+}
+
+#section2
+{     height: 200px;
+    width: 50%;
+      background: linear-gradient(to bottom, #6699ff 0%, #ff99cc 100%);
+      text-align: center;
+      padding: 60px 0 50px;
+}
+
